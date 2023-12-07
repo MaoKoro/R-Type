@@ -94,11 +94,13 @@ cd B-CPP-500-MAR-5-1-rtype-maori.dino.git
 
 > step 4
 ```sh
+cd build
 ./r_type_server
 ```
 
 > step 5
 ```sh
+cd build
 ./r_type_client
 ```
 
